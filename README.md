@@ -40,3 +40,4 @@
 <!-- Aşağıdaki linkleri kendi bilgilerinle değiştir -->
 [![Email](https://img.shields.io/badge/Email-venzlolofficial%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:venzlolofficial@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Venz-181717?logo=github&logoColor=white)](https://github.com/)
+![Discord](https://img.shields.io/badge/Discord-.venzyx-5865F2?logo=discord&logoColor=white)
