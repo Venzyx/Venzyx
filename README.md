@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/2b/fb/47/2bfb478b95c2a61460cef872ce1769cf.gif" width="280" />
+<!-- <img src="https://i.pinimg.com/originals/2b/fb/47/2bfb478b95c2a61460cef872ce1769cf.gif" width="280" /> -->
 
 ## 👋 Merhaba, ben Venz
 
@@ -32,7 +32,7 @@
 ### - Veritabanı & Altyapı
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,supabase,docker,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,supabase,docker,raspberrypi" />
   </a>
 </p>
 
