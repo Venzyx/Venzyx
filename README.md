@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="https://i.pinimg.com/originals/2b/fb/47/2bfb478b95c2a61460cef872ce1769cf.gif" width="280" /> -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
 
 ## 👋 Merhaba, ben Venz
 
